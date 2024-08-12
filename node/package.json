@@ -64,7 +64,7 @@
     "@apache-arrow/ts": "^14.0.2",
     "@neon-rs/load": "^0.0.74",
     "apache-arrow": "^14.0.2",
-    "axios": "^1.4.0"
+    "axios": "^1.7.2"
   },
   "os": [
     "darwin",
